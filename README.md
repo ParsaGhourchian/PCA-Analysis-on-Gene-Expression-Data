@@ -4,7 +4,7 @@ This project applies Principal Component Analysis (PCA) to a clean gene expressi
 The dataset is first normalized using StandardScaler, then transformed into two principal components (PC1 and PC2).
 The resulting PCA scatter plot and explained variance scores help understand patterns in the data.
 
-📌 Features
+# 📌 Features
 
 Standardization of high-dimensional gene expression data
 

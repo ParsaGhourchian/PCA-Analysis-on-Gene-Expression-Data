@@ -15,3 +15,6 @@ Scatter plot visualization of PC1 vs PC2
 Explained variance ratio output
 
 Clean and reproducible workflow
+
+<img width="700" height="547" alt="download (8)" src="https://github.com/user-attachments/assets/2dd1b958-47fc-4e2d-9298-a449c49b2adf" />
+
